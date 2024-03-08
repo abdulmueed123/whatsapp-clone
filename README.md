@@ -1,2 +1,2 @@
 # whatsapp-clone
-just a simole code in flutter
+just a simple code in flutter
